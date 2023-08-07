@@ -17,5 +17,5 @@ SetThreadContext, then ResumeThread respectively.
 * Resume the hijacked thread with ResumeThread
 </br>
 <p align="center">
-  <img src="https://github.com/xehn1337/Thread-Hijacking/blob/master/th.gif" />
+  <img src="https://github.com/xehn1337/Thread-Hijacking/blob/master/th.gif"/>
 </p>
